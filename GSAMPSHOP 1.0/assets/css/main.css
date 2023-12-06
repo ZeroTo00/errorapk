@@ -1,0 +1,61 @@
+body{
+    font-size: 14px;
+    line-height: 23px;
+    font-style: normal;
+    font-weight: 400;
+    visibility: visible;
+    font-family: poppins,Kanit,sans-serif;
+    color: #fff;
+    position: relative;
+	background-image: url('https://cdn.discordapp.com/attachments/1088871124831584338/1165763072082841622/Pink_Gaming_YouTube_Channel_Art_2.png?ex=655a7d77&is=65480877&hm=997e34b8b01f09d73550958df413f62fc3195111493910fd1f31865142587e12&'); /* ลิงก์รูปภาพพื้นหลัง */
+	background-size: cover; /* ปรับขนาดรูปภาพให้เต็มพื้นที่ */
+	background-repeat: no-repeat; /* ไม่ทำซ้ำรูปภาพ */
+}
+a:focus {
+    color: inherit;
+    outline: 0;
+    text-decoration: none
+}
+
+a:hover {
+    text-decoration: none;
+    color: #110d0d;
+}
+a{
+    color: #fff;
+}
+.bg-black{
+    background-color: #e30000;
+}
+.card{
+    background-color: #16171D;
+    box-shadow: 1px 2px 5px #000;
+    border-radius: 25px;
+}
+.image_show{
+    border-radius: 25px;
+}
+.image_show_card{
+    border-radius: 25px;
+}
+.bg-card{
+    background-color: #16171D;
+    color: #fff;
+}
+.text-input-none{
+    color: #E71C1C;
+    background: transparent;
+    width: 100%;
+    height: 100px;
+    resize: none;
+    border: none;
+}
+.text-input-none1{
+    width: 100%;
+    height: 300px;
+    resize: none;
+}
+.bg-pluem{
+    background-color: #16171D;
+    color: #fff;
+}
